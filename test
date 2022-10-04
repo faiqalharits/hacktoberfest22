@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
+    <title>Trevell</title>
+</head>
+
+<body>
+    <div class="header">
+        <div class="atas">
+            <img src="/Images/benar.png" style="width: 120px;">
+        </div>
+    </div>
+    <nav class="nav-list">
+        <ul>
+            <li>About Us</li>
+            <li>Place</li>
+            <li>Country</li>
+            <li>Profile</li>
+        </ul>
+    </nav>
+    <div class="tengah">
+        <h1 class="line1">Hello Welcome To </h1>
+        <img src="/Images/benar.png">
+        <h1 class="line2">Seaaaaaaaaa</h1>
+    </div>
+    <div class="img-bulet">
+        <img src="/Images/emre-PjjMG6VyHs4-unsplash.jpg" class="image1" width="100px">
+        <img src="/Images/jeremy-kwok-lbOKcBPgoPQ-unsplash.jpg" class="image2" width="100px">
+        <img src="/Images/simon-berger-twukN12EN7c-unsplash.jpg" class="image3" width="100px">
+        <img src="/Images/hanan-ismu-azhar-OvSvhyffmVc-unsplash.jpg" class="image4" width="100px">
+        <img src="/Images/felix-lam-J7fxkhtOqt0-unsplash.jpg" class="image5" width="100px">
+    </div>
+</body>
+
+</html>
